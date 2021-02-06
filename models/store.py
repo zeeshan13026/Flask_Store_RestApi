@@ -1,4 +1,4 @@
-from section6.code.db import db
+from db import db
 
 class StoreModel(db.Model):
 

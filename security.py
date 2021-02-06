@@ -1,5 +1,5 @@
 from werkzeug.security import safe_str_cmp
-from section6.code.resources.user import UserModel
+from resources.user import UserModel
 
 # users = [
 #     User(1, 'bob', 'asdf')
