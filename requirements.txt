@@ -3,4 +3,4 @@ Flask-RESTful
 Flask-JWT
 Flask-SQLAlchemy
 uwsgi
-pyscopg2
+pyscopg2-binary
